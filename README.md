@@ -1,2 +1,3 @@
-# faux-rier_transform
-A demonstration on how the Fourier Transform works
+# Faux-rier Transform
+
+Inspired by [3Blue1Brown's video on Fourier Transforms](https://www.youtube.com/watch?v=spUNpyF58BY), I made a lil demo of the Fourier Transform using [p5.js](https://p5js.org/)
